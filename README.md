@@ -58,9 +58,14 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
