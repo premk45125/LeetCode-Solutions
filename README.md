@@ -17,10 +17,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Tree
 |  |
 | ------- |
