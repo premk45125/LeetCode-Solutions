@@ -23,10 +23,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -35,5 +37,10 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
