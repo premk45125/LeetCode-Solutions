@@ -57,12 +57,14 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0155-min-stack](https://github.com/premk45125/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/premk45125/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/premk45125/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0014-longest-common-prefix](https://github.com/premk45125/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
@@ -107,6 +110,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
