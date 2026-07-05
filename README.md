@@ -50,6 +50,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -86,6 +87,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/premk45125/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Trie
@@ -100,6 +102,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
