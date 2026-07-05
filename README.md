@@ -67,6 +67,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/premk45125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0151-reverse-words-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/premk45125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/premk45125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/premk45125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Trie
