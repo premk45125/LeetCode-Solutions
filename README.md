@@ -39,6 +39,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/premk45125/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -100,4 +102,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
