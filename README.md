@@ -7,6 +7,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Simulation
 |  |
@@ -54,11 +55,13 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
