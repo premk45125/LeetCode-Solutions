@@ -53,6 +53,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/premk45125/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/premk45125/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
