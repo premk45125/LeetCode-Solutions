@@ -91,6 +91,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/premk45125/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/premk45125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sorting
 |  |
@@ -183,4 +184,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/premk45125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
