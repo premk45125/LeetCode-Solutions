@@ -80,6 +80,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0500-keyboard-row](https://github.com/premk45125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1288-remove-covered-intervals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0004-median-of-two-sorted-arrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,4 +205,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
