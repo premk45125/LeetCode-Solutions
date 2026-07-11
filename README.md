@@ -112,6 +112,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0217-contains-duplicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1288-remove-covered-intervals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -123,6 +124,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0165-compare-version-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/premk45125/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 ## Dynamic Programming
 |  |
@@ -146,6 +148,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0540-single-element-in-a-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
