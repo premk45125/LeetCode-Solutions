@@ -77,6 +77,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/premk45125/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -133,6 +134,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0004-median-of-two-sorted-arrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/premk45125/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/premk45125/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
