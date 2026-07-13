@@ -150,6 +150,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0005-longest-palindromic-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/premk45125/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/premk45125/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
@@ -161,6 +162,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0041-first-missing-positive](https://github.com/premk45125/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/premk45125/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/premk45125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
