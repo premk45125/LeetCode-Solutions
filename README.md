@@ -200,6 +200,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premk45125/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3917-count-indices-with-opposite-parity](https://github.com/premk45125/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Trie
 |  |
 | ------- |
