@@ -204,6 +204,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3912-valid-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/premk45125/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/premk45125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
