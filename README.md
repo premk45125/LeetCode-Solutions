@@ -105,6 +105,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1331-rank-transform-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3432-count-partitions-with-even-sum-difference](https://github.com/premk45125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premk45125/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
@@ -276,6 +278,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Union-Find
 |  |
 | ------- |
