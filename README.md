@@ -32,6 +32,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/premk45125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/premk45125/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [3925-concatenate-array-with-reverse](https://github.com/premk45125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
 | ------- |
