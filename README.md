@@ -126,6 +126,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
