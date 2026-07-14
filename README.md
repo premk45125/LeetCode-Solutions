@@ -32,6 +32,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/premk45125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
@@ -129,6 +130,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
 ## Sorting
@@ -155,6 +157,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
