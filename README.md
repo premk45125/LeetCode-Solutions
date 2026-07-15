@@ -17,6 +17,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/premk45125/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/premk45125/LeetCode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/premk45125/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -292,6 +293,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Counting
 |  |
 | ------- |
