@@ -39,6 +39,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -208,6 +209,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/premk45125/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/premk45125/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -255,6 +257,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
