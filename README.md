@@ -346,5 +346,6 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/premk45125/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
