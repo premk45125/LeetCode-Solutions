@@ -291,6 +291,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,6 +347,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/premk45125/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
