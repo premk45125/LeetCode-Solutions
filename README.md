@@ -142,6 +142,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0500-keyboard-row](https://github.com/premk45125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/premk45125/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/premk45125/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
@@ -175,6 +176,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0165-compare-version-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/premk45125/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/premk45125/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -210,6 +212,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0628-maximum-product-of-three-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
+| [0821-shortest-distance-to-a-character](https://github.com/premk45125/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
