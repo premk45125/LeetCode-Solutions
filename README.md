@@ -118,6 +118,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/premk45125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0697-degree-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0859-buddy-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
@@ -208,6 +209,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0540-single-element-in-a-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
