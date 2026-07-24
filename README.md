@@ -20,6 +20,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2469-convert-the-temperature](https://github.com/premk45125/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
