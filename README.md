@@ -25,6 +25,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2544-alternating-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/premk45125/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/premk45125/LeetCode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/premk45125/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -125,6 +126,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premk45125/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
