@@ -31,6 +31,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3232-find-if-digit-game-can-be-won](https://github.com/premk45125/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/premk45125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premk45125/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/premk45125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -152,6 +153,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/premk45125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
