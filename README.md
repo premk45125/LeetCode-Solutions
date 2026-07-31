@@ -26,6 +26,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/premk45125/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2739-total-distance-traveled](https://github.com/premk45125/LeetCode-Solutions/tree/master/2739-total-distance-traveled) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/premk45125/LeetCode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/premk45125/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -49,6 +50,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2739-total-distance-traveled](https://github.com/premk45125/LeetCode-Solutions/tree/master/2739-total-distance-traveled) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
