@@ -133,6 +133,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premk45125/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -244,6 +245,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/premk45125/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -339,6 +341,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Counting
 |  |
@@ -383,6 +386,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0190-reverse-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/premk45125/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting Sort
