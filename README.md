@@ -4,8 +4,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -44,8 +44,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0682-baseball-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -58,18 +58,18 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/premk45125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -77,28 +77,30 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0310-minimum-height-trees](https://github.com/premk45125/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0310-minimum-height-trees](https://github.com/premk45125/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -106,8 +108,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0199-binary-tree-right-side-view](https://github.com/premk45125/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -119,8 +121,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0682-baseball-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/premk45125/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -140,8 +142,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/premk45125/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
@@ -170,8 +172,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0217-contains-duplicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -186,8 +188,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3536-maximum-product-of-two-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -202,8 +204,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/premk45125/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -212,8 +214,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1137-n-th-tribonacci-number](https://github.com/premk45125/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/premk45125/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -266,56 +268,56 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/premk45125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/premk45125/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/premk45125/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/premk45125/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/premk45125/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/premk45125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/premk45125/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/premk45125/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/premk45125/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -323,21 +325,21 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/premk45125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [2485-find-the-pivot-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/premk45125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -346,57 +348,59 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/premk45125/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0997-find-the-town-judge](https://github.com/premk45125/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/premk45125/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1291-sequential-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/premk45125/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premk45125/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/premk45125/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/premk45125/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
