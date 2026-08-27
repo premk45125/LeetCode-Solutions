@@ -254,6 +254,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/premk45125/LeetCode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/premk45125/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
