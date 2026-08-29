@@ -89,6 +89,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -99,6 +100,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -381,6 +383,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0997-find-the-town-judge](https://github.com/premk45125/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -424,10 +427,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0310-minimum-height-trees](https://github.com/premk45125/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Combinatorics
 |  |
 | ------- |
