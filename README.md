@@ -285,6 +285,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3876-construct-uniform-parity-array-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/premk45125/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
@@ -361,6 +362,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3432-count-partitions-with-even-sum-difference](https://github.com/premk45125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
