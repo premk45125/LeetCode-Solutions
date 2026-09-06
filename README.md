@@ -159,6 +159,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0013-roman-to-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/premk45125/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/premk45125/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/premk45125/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -222,6 +223,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/premk45125/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/premk45125/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/premk45125/LeetCode-Solutions/tree/master/0392-is-subsequence) |
