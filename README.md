@@ -170,6 +170,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0804-unique-morse-code-words](https://github.com/premk45125/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/premk45125/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/0859-buddy-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -227,6 +228,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0198-house-robber](https://github.com/premk45125/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/premk45125/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/premk45125/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
