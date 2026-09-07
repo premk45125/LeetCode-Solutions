@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int distinctSubseqII(string s) {
+        const int mod = 1e9 + 7;
+
+        vector<long long> dp(s.size() + 1);
+        vector<long long> last(26, 0);
+
+        dp[0] = 1;
+
+        for (int i = 1; i <= s.size(); i++) {
+            int c = s[i - 1] - 'a';
+
+            dp[i] = (2 * dp[i - 1] - last[c] + mod) % mod;
+
+            last[c] = dp[i - 1];
+        }
+
+        return (dp[s.size()] - 1 + mod) % mod;
+    }
+};
