@@ -142,6 +142,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/premk45125/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -195,6 +196,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -261,6 +263,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/premk45125/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -435,6 +438,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Topological Sort
 |  |
@@ -451,4 +455,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premk45125/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
