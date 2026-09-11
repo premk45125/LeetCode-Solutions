@@ -71,6 +71,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0002-add-two-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premk45125/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/premk45125/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
@@ -288,6 +290,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premk45125/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/premk45125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premk45125/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/premk45125/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -417,6 +420,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [1291-sequential-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [3483-unique-3-digit-even-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Memoization
 |  |
