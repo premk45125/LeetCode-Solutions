@@ -264,6 +264,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0697-degree-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/premk45125/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/premk45125/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0835-image-overlap](https://github.com/premk45125/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -333,6 +334,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/premk45125/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/premk45125/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
