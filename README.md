@@ -84,6 +84,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0700-search-in-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/premk45125/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -124,6 +125,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0700-search-in-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/premk45125/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
@@ -138,6 +140,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/premk45125/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Hash Table
 |  |
@@ -276,6 +279,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0997-find-the-town-judge](https://github.com/premk45125/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/premk45125/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -330,6 +334,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -486,6 +491,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
