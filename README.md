@@ -79,6 +79,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/premk45125/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -126,6 +127,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0094-binary-tree-inorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/premk45125/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -270,6 +272,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0033-search-in-rotated-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/premk45125/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/premk45125/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -394,6 +397,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Prefix Sum
 |  |
@@ -504,6 +508,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/premk45125/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/premk45125/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
