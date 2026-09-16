@@ -227,6 +227,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0242-valid-anagram](https://github.com/premk45125/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/premk45125/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/premk45125/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -289,6 +290,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0628-maximum-product-of-three-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/premk45125/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/premk45125/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/premk45125/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/premk45125/LeetCode-Solutions/tree/master/0835-image-overlap) |
