@@ -105,6 +105,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/premk45125/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
+| [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/premk45125/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -117,6 +118,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0310-minimum-height-trees](https://github.com/premk45125/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/premk45125/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -439,6 +441,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -447,6 +450,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0310-minimum-height-trees](https://github.com/premk45125/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
+| [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/premk45125/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -544,4 +548,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
