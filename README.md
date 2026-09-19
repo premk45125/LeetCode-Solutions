@@ -16,6 +16,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1175-prime-arrangements](https://github.com/premk45125/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/premk45125/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/premk45125/LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/premk45125/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1837-sum-of-digits-in-base-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -461,6 +462,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0836-rectangle-overlap](https://github.com/premk45125/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/premk45125/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/premk45125/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Enumeration
 |  |
 | ------- |
