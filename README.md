@@ -58,6 +58,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2739-total-distance-traveled](https://github.com/premk45125/LeetCode-Solutions/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
@@ -216,6 +217,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/premk45125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
