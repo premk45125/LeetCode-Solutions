@@ -158,6 +158,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0682-baseball-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/premk45125/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/premk45125/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/premk45125/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/premk45125/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Hash Table
 |  |
@@ -213,6 +214,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0940-distinct-subsequences-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/premk45125/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1436-destination-city](https://github.com/premk45125/LeetCode-Solutions/tree/master/1436-destination-city) |
@@ -572,4 +574,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/premk45125/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
