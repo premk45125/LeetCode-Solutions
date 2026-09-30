@@ -227,6 +227,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2000-reverse-prefix-of-word](https://github.com/premk45125/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2678-number-of-senior-citizens](https://github.com/premk45125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/premk45125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -340,6 +341,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2678-number-of-senior-citizens](https://github.com/premk45125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/premk45125/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
