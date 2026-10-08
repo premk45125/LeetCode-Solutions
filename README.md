@@ -337,6 +337,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/premk45125/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/premk45125/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/premk45125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -439,6 +440,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/premk45125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/premk45125/LeetCode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/premk45125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
