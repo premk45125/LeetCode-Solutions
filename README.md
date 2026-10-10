@@ -180,6 +180,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1370-increasing-decreasing-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/premk45125/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -219,6 +220,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/premk45125/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1370-increasing-decreasing-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/premk45125/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1668-maximum-repeating-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -464,6 +466,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
