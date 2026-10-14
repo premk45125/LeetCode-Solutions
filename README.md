@@ -43,6 +43,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3536-maximum-product-of-two-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premk45125/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premk45125/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -467,6 +468,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/premk45125/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/premk45125/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
