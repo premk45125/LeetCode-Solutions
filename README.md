@@ -227,6 +227,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1370-increasing-decreasing-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/premk45125/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1668-maximum-repeating-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premk45125/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -347,6 +348,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/premk45125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
