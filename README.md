@@ -345,6 +345,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/premk45125/LeetCode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/premk45125/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/premk45125/LeetCode-Solutions/tree/master/1436-destination-city) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/premk45125/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
