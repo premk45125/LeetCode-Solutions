@@ -376,6 +376,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premk45125/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/premk45125/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/premk45125/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/premk45125/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
@@ -548,6 +549,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premk45125/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/premk45125/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting Sort
 |  |
