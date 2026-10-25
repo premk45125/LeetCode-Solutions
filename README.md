@@ -245,6 +245,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
 ## Sorting
