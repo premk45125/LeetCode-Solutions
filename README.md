@@ -111,6 +111,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0851-loud-and-rich](https://github.com/premk45125/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/premk45125/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/premk45125/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -126,6 +127,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premk45125/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/premk45125/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/premk45125/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -342,6 +344,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1122-relative-sort-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/premk45125/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/premk45125/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -421,6 +424,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0835-image-overlap](https://github.com/premk45125/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/premk45125/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/premk45125/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/premk45125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/premk45125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -504,6 +508,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [0684-redundant-connection](https://github.com/premk45125/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0886-possible-bipartition](https://github.com/premk45125/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
+| [1254-number-of-closed-islands](https://github.com/premk45125/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/premk45125/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
