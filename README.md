@@ -26,6 +26,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2469-convert-the-temperature](https://github.com/premk45125/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/premk45125/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/premk45125/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -489,6 +490,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/premk45125/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/premk45125/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
