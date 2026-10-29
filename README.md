@@ -365,6 +365,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1528-shuffle-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/premk45125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
