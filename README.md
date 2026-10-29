@@ -24,6 +24,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/premk45125/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2485-find-the-pivot-integer](https://github.com/premk45125/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/premk45125/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -370,6 +371,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2089-find-target-indices-after-sorting-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2678-number-of-senior-citizens](https://github.com/premk45125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/premk45125/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -552,6 +554,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Number Theory
 |  |
 | ------- |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premk45125/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/premk45125/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/premk45125/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
