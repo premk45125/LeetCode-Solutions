@@ -203,6 +203,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1935-maximum-number-of-words-you-can-type](https://github.com/premk45125/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/premk45125/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/premk45125/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -279,6 +280,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/premk45125/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2706-buy-two-chocolates](https://github.com/premk45125/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -299,6 +301,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [0942-di-string-match](https://github.com/premk45125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premk45125/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/premk45125/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/premk45125/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -378,6 +381,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/premk45125/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2678-number-of-senior-citizens](https://github.com/premk45125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/premk45125/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
