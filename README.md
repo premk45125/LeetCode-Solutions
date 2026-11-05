@@ -25,6 +25,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2427-number-of-common-factors](https://github.com/premk45125/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/premk45125/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -558,6 +559,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | ------- |
 | [1291-sequential-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [2427-number-of-common-factors](https://github.com/premk45125/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/premk45125/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/premk45125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -569,6 +571,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/premk45125/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premk45125/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/premk45125/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -671,4 +674,12 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/premk45125/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/premk45125/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
