@@ -21,6 +21,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1401-circle-and-rectangle-overlapping](https://github.com/premk45125/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/premk45125/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -248,6 +249,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1528-shuffle-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1668-maximum-repeating-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premk45125/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/premk45125/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2000-reverse-prefix-of-word](https://github.com/premk45125/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
