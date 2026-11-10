@@ -330,6 +330,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1137-n-th-tribonacci-number](https://github.com/premk45125/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/premk45125/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [3693-climbing-stairs-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/premk45125/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/premk45125/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/premk45125/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
