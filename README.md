@@ -24,6 +24,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1688-count-of-matches-in-tournament](https://github.com/premk45125/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -394,6 +395,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1672-richest-customer-wealth](https://github.com/premk45125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1748-sum-of-unique-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -583,6 +585,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/premk45125/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/premk45125/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/premk45125/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -610,6 +613,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premk45125/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -634,6 +638,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premk45125/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Quicksort
 |  |
@@ -707,4 +712,8 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/premk45125/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
