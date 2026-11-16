@@ -72,6 +72,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1688-count-of-matches-in-tournament](https://github.com/premk45125/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/premk45125/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2739-total-distance-traveled](https://github.com/premk45125/LeetCode-Solutions/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/premk45125/LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -260,6 +261,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1935-maximum-number-of-words-you-can-type](https://github.com/premk45125/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2000-reverse-prefix-of-word](https://github.com/premk45125/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/premk45125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
