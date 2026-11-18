@@ -265,6 +265,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2243-calculate-digit-sum-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/premk45125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/premk45125/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/premk45125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
