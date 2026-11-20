@@ -216,6 +216,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1935-maximum-number-of-words-you-can-type](https://github.com/premk45125/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/premk45125/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/premk45125/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/premk45125/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -264,6 +265,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/premk45125/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/premk45125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/premk45125/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/premk45125/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -300,6 +302,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/premk45125/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/premk45125/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2706-buy-two-chocolates](https://github.com/premk45125/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/premk45125/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -407,6 +410,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2418-sort-the-people](https://github.com/premk45125/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/premk45125/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/premk45125/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/premk45125/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
