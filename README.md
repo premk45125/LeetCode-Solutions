@@ -212,6 +212,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1436-destination-city](https://github.com/premk45125/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premk45125/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/premk45125/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -260,6 +261,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1528-shuffle-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1668-maximum-repeating-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/premk45125/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/premk45125/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -409,6 +411,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/premk45125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1748-sum-of-unique-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -568,6 +571,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1267-count-servers-that-communicate](https://github.com/premk45125/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -632,6 +636,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/premk45125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/premk45125/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/premk45125/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premk45125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2351-first-letter-to-appear-twice](https://github.com/premk45125/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premk45125/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
