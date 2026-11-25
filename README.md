@@ -285,6 +285,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3863-minimum-operations-to-sort-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/premk45125/LeetCode-Solutions/tree/master/3921-score-validator) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/premk45125/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +318,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3727-maximum-alternating-sum-of-squares](https://github.com/premk45125/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/premk45125/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/premk45125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/premk45125/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
