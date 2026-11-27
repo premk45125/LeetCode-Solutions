@@ -262,6 +262,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1446-consecutive-characters](https://github.com/premk45125/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premk45125/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/premk45125/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/premk45125/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -415,6 +416,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [1528-shuffle-string](https://github.com/premk45125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/premk45125/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/premk45125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/premk45125/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/premk45125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/premk45125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/premk45125/LeetCode-Solutions/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
