@@ -319,6 +319,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3536-maximum-product-of-two-digits](https://github.com/premk45125/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/premk45125/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/premk45125/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/premk45125/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -453,6 +454,7 @@ Consistent LeetCode solutions in C++ covering DSA topics for coding interviews a
 | [3718-smallest-missing-multiple-of-k](https://github.com/premk45125/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/premk45125/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/premk45125/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/premk45125/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/premk45125/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/premk45125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
